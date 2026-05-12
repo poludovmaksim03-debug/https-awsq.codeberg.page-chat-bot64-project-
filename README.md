@@ -9,9 +9,13 @@
 <body> 
     <h1>Приветствуем вас!</h1>
     <p>Добро пожаловать на сайт "Проверка домашних заданий"! Здесь учителя будут проверять домашние задания с помощью чат-бота. Если вы являетесь учителем, можете зайти! 
-        <!--Ссылка на внешний сайт-->
-        <a href="https://chat-bot64.ru" target="_blank">переход</a>
     </p>
+    <script>
+      if ('serviceWorker' in navigator) 
+        {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js').then(reg => console.log('SW registered')).catch(err => console.log('SW registration failed', err));
+    });
+    }  
+    </script> 
 </body>
 </html>
 <style>
