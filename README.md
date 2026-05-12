@@ -11,7 +11,8 @@
     <p>Добро пожаловать на сайт "Проверка домашних заданий"! Здесь учителя будут проверять домашние задания с помощью чат-бота. Если вы являетесь учителем, можете зайти! 
     </p>
     <script>
-      if ('serviceWorker' in navigator) {navigator.serviceWorker.register('./offline-worker.js');
+        // Регистрация Service Worker
+      if ('serviceWorker' in navigator) {navigator.serviceWorker.register('sw.js').then(() => console.log('Service Worker Зарегистрирован'));                      
       }
     </script> 
 </body>
