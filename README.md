@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head> <meta name="yandex-verification" content="83b068f964cd4ac6" /> 
-    <meta http-equiv="Content-Type" content="text/html; <meta charset="UTF-8"> <link rel="stylesheet" href="style css">
-    <title>https://chat-bot64.ru</title>
+    <meta http-equiv="Content-Type" content="text/html; <meta charset="UTF-8"> <link rel="stylesheet" href="style css"
     <link rel="stylesheet" href="style.css">
 </head>
 <body> 
