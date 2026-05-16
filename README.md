@@ -1,6 +1,6 @@
 <html lang="ru">
 <head> <meta name="yandex-verification" content="83b068f964cd4ac6" /> 
-    <link rel="stylesheet" href="style.css">
+    <rel="manifest" href="/manifest.json">
 </head>
 <body> 
     <h1>Приветствуем вас!</h1>
