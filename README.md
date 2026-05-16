@@ -7,10 +7,13 @@
     <p>Добро пожаловать на сайт "Проверка домашних заданий"! Здесь учителя будут проверять домашние задания с помощью чат-бота. Если вы являетесь учителем, можете зайти! 
     </p>
     <script>
-      if ('serviceWorker' in navigator) 
-        {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js').then(reg => console.log('SW registered')).catch(err => console.log('SW registration failed', err));
-    });
-    }  
+       if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js')
+      .then(registration => console.log('Service Worker зарегистрирован:', registration))
+      .catch(error => console.log('Ошибка при регистрации Service Worker:', error));
+  });
+} 
     </script> 
 </body>
 </html>
