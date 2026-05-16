@@ -1,8 +1,7 @@
-# <html> Проверка домашних заданий
-<!DOCTYPE html>
+
 <html lang="ru">
 <head> <meta name="yandex-verification" content="83b068f964cd4ac6" /> 
-    <meta http-equiv="Content-Type" content="text/html; <meta charset="UTF-8"> <link rel="stylesheet" href="style css">
+ <meta charset="UTF-8"> <link rel="stylesheet" href="style css">
     <title>https://chat-bot64.ru</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -26,5 +25,5 @@
 </style>
 <form action="https://yabs.yandex.ru/count/Wo0ejI_zOoVX2Lah0vKO0EEigpnFEX8m9r356oQWDvSiMib3m7i10HtwV2vtzco_S-SDTxv-n-iDTxWu_jDZHtr0E560oASWd2X0v32ooi1ptBPjgFHsGdDKXNvc7ENuaJflvzJfj7EedQDApV7CRUdJcKzlQ8wga8mSLQ6WgDGfTTevYeoeFqbBI3_L8YeIaFEEEd4a6KxSUUDGcmRI3-vqEg7EfnDNeiu8eieGaa6T4JI2AaD8HjyEcB9v0GWX5cnEbBw18M5MHpC67KSJY7nyV7nyIZwOn1QW_M2IgG3j1vDw0TeFlfmBq7xmPR80xGTVlXIW_U2BP07Q3yfo1MW_ACSLeErWkvZpDT7bp8XO1Gw7ETqZxHT85Zq-DLBrFehQ6CAnD0AH23XeX32ZjftJf_CvdKvlfpGwZKwVzzEkdtPKYj_FVEgKEdEfrER1mNh8B2jVoCHQKuJSU6ap1YiAIpYVRvXil1dOx3uGS0CuW0rSEycKiq8iR4kkKD5gs9jB3C5Q3LiCkW3U9fa0N7ggfko_vg2iQiHCNGVhkgxNw1pAo0mRjJWYwj5mY_3GIKAn9EQpPkN9m_U2nG2-FfZ41h1rGDTwOOPiFTcpZXmEiR0rqIX5Ypa0Z0DOs46JLIZVN05JC3TvX2biBPGjTeaXDtKic8a9wmJp9O04Rv6W2GqCWUd2N4FOe_r4k9jwFctR_6RGv6RGt6NuVcDEPVZ3Vd3mnmUFA6lytmc1Ojyx8L3iSsKI1V_kttQghmq1fVUp8Q3qc6OSGaHc6OSGaJdUTLtNQJE5lorSLd2QF76aTvmcJnpfhUyX10gTNMxvid-xWupoP7-4xl7HZsaFFe0had7GVvUc13Q1ybjQr_KjKmARG7cjbmCSJ9ppMUzrN-P2xe9Lku_78vgPAvLAfP0NQ9xDL43viOWNhbJac3927_mjUgDnSFrOHG7l1OmfOu70OZ9dwaYQwFRVRzFSe0vSOFo7zkeEJUPSr_Dxl9I5xp8dJ592KGq3JYn_MbWEwtrUNrNGsEdsPb9ndRg5OvKWotWSbBgRzcgBhlfM2TNxRW00~2?etext=2202.T8F3OSdV8XyhhBhzcBJIA2lmY2JyY2xqamJvdHJjb3k.c6bc549edd23375b25b5e434ea4dde1a00870129&from=yandex.ru%3Bsearch%26%23x2F%3B%3Bweb%3B%3B0%3B&q=gigachat&baobab_event_id=mou1ko2pbb&ctime=1778071015393" method="GET">
     <h1> <label>Имя и фамилия: <input type="text" name="Введите имя и фамилию" required>
-    <h2> <label>Электронная почта: <input type="text" type="Введите электронную почту" required>
+    <h2> <label>Электронная почта: <input type="text" type="Введите электронную почту" required placeholder="example@mail.com or example@mail.ru">
     <input type="submit" value="Войти"> 
