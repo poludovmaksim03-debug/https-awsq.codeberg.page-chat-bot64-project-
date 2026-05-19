@@ -25,5 +25,5 @@
 </style>
 <form action="https://poludovmaksim03-debug.github.io/https-awsq.codeberg.page-bot-project/" method="GET">
     <h1> <label>Имя и фамилия: <input type="text" name="Введите имя и фамилию" required>
-    <h2> <label>Электронная почта: <input type="text" type="Введите электронную почту" required placeholder="example@mail.com or example@mail.ru">
+    <h2> <label>Электронная почта: <input type="password" type="Введите электронную почту" required placeholder="example@mail.com or example@mail.ru">
     <input type="submit" value="Войти">  
